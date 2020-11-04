@@ -1,0 +1,15 @@
+	  Garlica Invoice
+ Bill Number  : 6394
+ Customer Name  : sharan
+ Phone Number  : 7386007099
+=======================================
+ Iteams		QTY		Price
+=======================================
+ Tandoori		1		250
+ Mutton Briyani		3		900
+--------------------------------------
+ Staters Tax			Rs. 12.5
+ Main Course Tax 			Rs. 45.0
+--------------------------------------
+ Total 			 Rs .1207.5
+--------------------------------------
